@@ -2,6 +2,8 @@
 
 Small tool to generate the string required to insert days off or work leave into the ***awesome*** new ZeusX.
 
+![demo](./assets/images/screencast.gif)
+
 ### Rquirements
 
 - Python 3.10.11
