@@ -4,7 +4,7 @@ Small tool to generate the string required to insert days off or work leave into
 
 ![demo](./assets/images/screencast.gif)
 
-### Rquirements
+### Requirements
 
 - Python 3.10.11
 - PyInstaller 6.11.0
