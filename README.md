@@ -22,3 +22,9 @@ It is highly recommended to follow the steps described below **inside a Python v
 ```shell
     pyinstaller --onefile --windowed zeusx.py
 ```
+
+## IMPORTANT NOTE
+
+This tool allows you to insert values that are ​​inconsistent with each other.
+
+If you want to add functionalities or improve it, feel free to do a PR.
